@@ -1,5 +1,5 @@
 ### Olá!<br>
-Eu sou o Auridebson Lima 👋
+### Eu sou o Auridebson Lima 👋
 
 - 🔭 Estou planejando um e-commerce para venda de vinhos
 - 🌱 Estou estudando FullStack (JS, Python, HTML/CSS, React Native)
