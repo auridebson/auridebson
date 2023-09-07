@@ -1,7 +1,6 @@
 <div>
   <a href="https://github.com/auridebson">
-    <img>
-    <img>    
+    <h1>Auridebson Lima</h1>   
   </a>
 </div>
 
