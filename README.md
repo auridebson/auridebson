@@ -6,9 +6,18 @@
 - 🤔 Estou precisando de ajuda para aprender de forma eficiente as ferramentas e linguages de mercado
 - 💬 Pergunte-me sobre negociação, gestão comercial, governança de TI, Krav Maga :-)
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div>
   <a href="https://github.com/auridebson">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=highcontrast"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=highcontrast"/>
   </a>
+</div>
+
+
+<div>
+  <i class="devicon-html5-plain-wordmark colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 </div>
