@@ -1,4 +1,5 @@
-### <h2>Eu sou o Auridebson Lima 👋</h2>
+<h2>Eu sou o Auridebson Lima 👋</h2>
+
 
 - 🔭 Estou planejando um e-commerce para venda de vinhos
 - 🌱 Estou estudando FullStack (JS, Python, HTML/CSS, React Native)
