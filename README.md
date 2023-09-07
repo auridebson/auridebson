@@ -20,4 +20,7 @@
 <div>
   <i class="devicon-html5-plain-wordmark colored"></i>
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+  
 </div>
