@@ -11,10 +11,14 @@
 
 <div>
   <a href="https://github.com/auridebson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=highcontrast"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=highcontrast"/>
-    <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img height="80em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=highcontrast"/>
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=highcontrast"/>
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
+          
           
           
   </a>
