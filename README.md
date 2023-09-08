@@ -1,4 +1,4 @@
-<h2>Eu sou o Auridebson Sousa 👋</h2>
+<h2>Eu sou Auridebson Sousa 👋</h2>
 
 <p></p>
 
