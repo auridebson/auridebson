@@ -10,7 +10,7 @@
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auridebson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auridebson)](https://github.com/auridebson/github-readme-stats)
 
 <div>
   <a href="https://github.com/auridebson">
