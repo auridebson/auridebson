@@ -81,10 +81,11 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auridebson&show_icons=true&locale=en&layout=highcontrast" alt="auridebson" />
-</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&locale=en&layout=highcontrast" alt="auridebson" />
-</p>
+<div>
+  <a href="https://github.com/auridebson">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=highcontrast"/>     
+  </a>
+</div>
