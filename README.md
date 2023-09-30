@@ -12,13 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=auridebson&label=Profile%20views&color=0e75b6&style=flat" alt="auridebson" />
 </p>
 
-<p>
-  <a href="https://twitter.com/auridebson" target="blank">
-  <img src="https://img.shields.io/twitter/follow/auridebson?logo=twitter&style=for-the-badge" alt="auridebson" />
-  </a>
-</p>
-
-
 <h3 align="left">Linguagens e ferramentas:</h3>
 
 <p align="left">
