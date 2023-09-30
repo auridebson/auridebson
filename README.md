@@ -12,9 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=auridebson&label=Profile%20views&color=0e75b6&style=flat" alt="auridebson" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/auridebson" target="blank"><img src="https://img.shields.io/twitter/follow/auridebson?logo=twitter&style=for-the-badge" alt="auridebson" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/auridebson" target="blank">
+  <img src="https://img.shields.io/twitter/follow/auridebson?logo=twitter&style=for-the-badge" alt="auridebson" />
+</a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://codepen.io/auridebson" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="auridebson" height="30" width="40" />
@@ -24,7 +28,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="auridebson" height="30" width="40" />
 </a>
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/auridebson/" target="blank">
+<a href="https://www.linkedin.com/in/auridebson/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/auridebson/" height="30" width="40" />
 </a>
 <a href="https://stackoverflow.com/users/22324643" target="blank">
@@ -78,9 +82,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auridebson&show_icons=true&locale=en&layout=compact" alt="auridebson" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auridebson&show_icons=true&locale=en&layout=highcontrast" alt="auridebson" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&locale=en" alt="auridebson" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&locale=en&layout=highcontrast" alt="auridebson" />
 </p>
