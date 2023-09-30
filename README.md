@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Auridebson Lima</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h2>Eu sou Auridebson Sousa 👋</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=auridebson&label=Profile%20views&color=0e75b6&style=flat" alt="auridebson" /> </p>
+<p></p>
 
-<p align="left"> <a href="https://twitter.com/auridebson" target="blank"><img src="https://img.shields.io/twitter/follow/auridebson?logo=twitter&style=for-the-badge" alt="auridebson" /></a> </p>
+- 🔭 Estou planejando um e-commerce para venda de vinhos
+- 🌱 Estou estudando FullStack (JS, Python, HTML/CSS, React Native)
+- 👯 Estou procurando pessoas para elaborar projetos inovadores (pessoas que não gostem de descansar, dormir ou Netflix)
+- 🤔 Estou precisando de ajuda para aprender de forma eficiente as ferramentas e linguages de mercado
+- 💬 Pergunte-me sobre negociação, gestão comercial, governança de TI, Krav Maga :-)
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=auridebson&label=Profile%20views&color=0e75b6&style=flat" alt="auridebson" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/auridebson" target="blank"><img src="https://img.shields.io/twitter/follow/auridebson?logo=twitter&style=for-the-badge" alt="auridebson" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
