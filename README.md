@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<h3 align="left">Conecte comigo:</h3>
-
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
@@ -66,6 +64,7 @@
   </a>
 </div>
 
+<h3 align="left">Conecte comigo:</h3>
 <p align="left"> 
 <a href="https://twitter.com/auridebson" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="auridebson" height="30" width="40" />
