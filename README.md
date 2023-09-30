@@ -10,12 +10,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=auridebson&label=Profile%20views&color=0e75b6&style=flat" alt="auridebson" />
-</p>
 
-<p align="left">
   <a href="https://twitter.com/auridebson" target="blank">
   <img src="https://img.shields.io/twitter/follow/auridebson?logo=twitter&style=for-the-badge" alt="auridebson" />
-</a>
+  </a>
 </p>
 
 <h3 align="left">Conecte comigo:</h3>
