@@ -50,10 +50,17 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div>
+<!-- <div>
   <a href="https://github.com/auridebson">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=highcontrast"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=highcontrast"/>     
+  </a>
+</div> -->
+
+<div>
+  <a href="https://github.com/auridebson">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=light"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=light"/>     
   </a>
 </div>
 
