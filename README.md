@@ -80,4 +80,4 @@
 </a>
 </p>
 
-<p>[Teste](https://img.shields.io/badge/Auridebson-black)https://img.shields.io/badge/Auridebson-black</p>
+https://img.shields.io/badge/Auridebson-black)https://img.shields.io/badge/Auridebson-black
