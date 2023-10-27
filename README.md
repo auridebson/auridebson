@@ -52,10 +52,10 @@
 
 <div>
   <a href="https://github.com/auridebson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/auridebson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=highcontrast"/>     
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=tokyonight"/>     
   </a>
 </div>
 
