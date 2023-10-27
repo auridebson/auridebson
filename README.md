@@ -80,4 +80,11 @@
 </a>
 </p>
 
+
+<!-- 
 https://img.shields.io/badge/Auridebson-black)https://img.shields.io/badge/Auridebson-black
+
+
+https://github.com/ileriayo/markdown-badges
+
+https://img.shields.io/badges/cocoapods-platforms -->
