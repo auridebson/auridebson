@@ -1,10 +1,10 @@
 <h2>Eu sou Auridebson Sousa 👋</h2>
 
-<style>
+!(<style>
   a:hover {
     background-color: #000
   }
-</style>
+</style>)
 
 <p></p>
 
