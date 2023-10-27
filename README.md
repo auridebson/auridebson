@@ -20,7 +20,8 @@
   </a>
   
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+          
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -92,4 +93,8 @@ https://img.shields.io/badge/Auridebson-black)https://img.shields.io/badge/Aurid
 
 https://github.com/ileriayo/markdown-badges
 
-https://img.shields.io/badges/cocoapods-platforms -->
+https://img.shields.io/badges/cocoapods-platforms 
+
+https://devicon.dev/
+
+-->
