@@ -84,7 +84,7 @@
 </a>
 </p>
 
-<input type=text>
+<input type="text" value="Campo texto">
 
 <!--
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
