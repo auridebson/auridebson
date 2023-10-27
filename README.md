@@ -1,5 +1,11 @@
 <h2>Eu sou Auridebson Sousa 👋</h2>
 
+<style>
+  a:hover {
+    background-color: #000
+  }
+</style>
+
 <p></p>
 
 - 🔭 Estou planejando um e-commerce para venda de vinhos
