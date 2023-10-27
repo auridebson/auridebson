@@ -81,6 +81,9 @@
 </a>
 </p>
 
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <!-- 
 https://img.shields.io/badge/Auridebson-black)https://img.shields.io/badge/Auridebson-black
