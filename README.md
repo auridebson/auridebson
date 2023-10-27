@@ -1,11 +1,5 @@
 <h2>Eu sou Auridebson Sousa 👋</h2>
 
-!(<style>
-  a:hover {
-    background-color: #000
-  }
-</style>)
-
 <p></p>
 
 - 🔭 Estou planejando um e-commerce para venda de vinhos
@@ -90,12 +84,12 @@
 </a>
 </p>
 
+<input type=text>
 
 <!--
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
 
 https://img.shields.io/badge/Auridebson-black)https://img.shields.io/badge/Auridebson-black
 
