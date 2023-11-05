@@ -53,10 +53,10 @@
 
 <div>
   <a href="https://github.com/auridebson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auridebson&show_icons=true&theme=dark"/>
   </a>
   <a href="https://github.com/auridebson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=dracula"/>     
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auridebson&theme=dark"/>     
   </a>
 </div>
 
